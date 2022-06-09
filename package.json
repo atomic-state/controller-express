@@ -1,0 +1,9 @@
+{
+  "name": "controller-express",
+  "version": "0.0.1",
+  "description": "Controllers for express",
+  "main": "lib/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
